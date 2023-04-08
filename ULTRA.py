@@ -1,5 +1,5 @@
-from ULTRA import Rinku
-Rinku()
+from ULTRA import ULTRA
+ULTRA()
 
 
         

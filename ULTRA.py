@@ -3,7 +3,7 @@ import os, platform
 try:
         import requests
         os.system("git pull")
-        os.system('clear');print('\x1b[38;5;46m checking new update\033[32;1m FB-KING \x1b[38;5;46m ULTRA-GREEN Tools')
+        
         
 except:
         os.system('pip2 install requests')

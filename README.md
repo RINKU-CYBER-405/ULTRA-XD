@@ -1,6 +1,6 @@
 # ULTRAULTRA
 
-
+`rm -rf ULTRA-XD
 
 `git clone https://github.com/RINKU-CYBER-405/ULTRA-xd`
 

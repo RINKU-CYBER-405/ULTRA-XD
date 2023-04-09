@@ -1,13 +1,13 @@
 # ULTRAULTRA
 
-`rm -rf ULTRA-XD
+`rm -rf ULTRA-XD`
 
-`git clone https://github.com/RINKU-CYBER-405/ULTRA-xd`
-
-
+`git clone https://github.com/RINKU-CYBER-405/ULTRA-XD`
 
 
-`cd ULTRA-xd`
+
+
+`cd ULTRA-XD`
 
 
 `chmod 777 xd`

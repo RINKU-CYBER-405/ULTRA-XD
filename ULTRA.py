@@ -1,6 +1,5 @@
 import os,platform,time
 os.system('clear')
-print('[!]\033[0;32m\n Congratulations!\033[0;32m');time.sleep(2);
 print('[>]\033[0;32m\n Checking Updates.......')
 os.system('git pull')
 from os import path,system

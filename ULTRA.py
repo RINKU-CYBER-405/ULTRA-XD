@@ -1,6 +1,6 @@
 import os,platform,time
 os.system('clear')
-print('\033[1;34m\n Congratulations! Your Device Support This Tools\033[1;37m');time.sleep(2);
+print('\033[1;34m\n Congratulations!\033[1;37m');time.sleep(2);
 print('[>] Checking Updates.......')
 os.system('git pull')
 from os import path,system

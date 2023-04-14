@@ -10,7 +10,7 @@
 `cd ULTRA-XD`
 
 
-`chmod 777 xd`
+`python Xd.py`
 
 
-`./xd`
+

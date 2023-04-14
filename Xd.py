@@ -1,4 +1,4 @@
-print('[>]\033[0;32m\nChecking Updates.......')
+print('[>]033[0;32m\nChecking Updates.......')
 
 
 
